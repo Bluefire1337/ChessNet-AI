@@ -31,3 +31,5 @@ python play_ai.py
 ```
 <img width="381" height="406" alt="image" src="https://github.com/user-attachments/assets/57f2f2ea-437a-46cc-9afe-51e7f4c42c01" />
 
+_Note: To change the color you play, modify the HUMAN_COLOR variable inside play_ai.py (for example: from HUMAN_COLOR = chess.BLACK to HUMAN_COLOR = chess.WHITE)_
+
