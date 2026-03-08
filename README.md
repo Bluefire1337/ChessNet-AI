@@ -20,12 +20,12 @@ git clone [https://github.com/Bluefire1337/ChessNet-AI.git](https://github.com/B
 cd ChessNet-AI
 ```
 
-##2. Install the required dependencies
+**2. Install the required dependencies**
 ```
 pip install -r requirements.txt
 ```
 
-##3. Launch the Game!
+**3. Launch the Game!**
 ```
 python play_ai.py
 ```
