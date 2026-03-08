@@ -1,0 +1,13 @@
+# External libraries:
+# type: pip install -r requirements.txt
+
+# --- Deep Learning Brain ---
+torch
+numpy
+
+# --- PGN Parsing (For Training) ---
+zstandard
+
+# --- Video Game UI ---
+pygame
+python-chess

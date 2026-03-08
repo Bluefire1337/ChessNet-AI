@@ -1,0 +1,61 @@
+
+1.white won the game 
+2.black won the game 
+1.black won the game 
+1. won the game 
+1. won the game 
+1. won the game 
+1. won the game 
+1. won the game 
+1. won the game 
+1. won the game 
+1.black won the game 
+1.1/2-1/2...Draw by stalemate 
+1.1/2-1/2...Draw by stalemate 
+1.1/2-1/2...Draw by 50 move rule 
+1.1/2-1/2...Draw by 50 move rule 
+1. black won the game 
+1. white won the game 
+1. 1/2-1/2...Draw by threefold repetition 
+2. 1/2-1/2...Draw by threefold repetition 
+1. 1/2-1/2...Draw by threefold repetition 
+2. 1/2-1/2...Draw by threefold repetition 
+1. 1/2-1/2...Draw by threefold repetition 
+2. 1/2-1/2...Draw by threefold repetition 
+1. 1/2-1/2...Draw by threefold repetition 
+2. 1/2-1/2...Draw by threefold repetition 
+3. 1/2-1/2...Draw by threefold repetition 
+4. 1/2-1/2...Draw by threefold repetition 
+5. 1/2-1/2...Draw by threefold repetition 
+6. 1/2-1/2...Draw by threefold repetition 
+7. 1/2-1/2...Draw by threefold repetition 
+8. 1/2-1/2...Draw by threefold repetition 
+9. 1/2-1/2...Draw by threefold repetition 
+10. 1/2-1/2...Draw by threefold repetition 
+11. 1/2-1/2...Draw by threefold repetition 
+12. 1/2-1/2...Draw by threefold repetition 
+13. 1/2-1/2...Draw by threefold repetition 
+14. 1/2-1/2...Draw by threefold repetition 
+15. 1/2-1/2...Draw by threefold repetition 
+16. 1/2-1/2...Draw by threefold repetition 
+1. 1/2-1/2...Draw by threefold repetition 
+2. 1/2-1/2...Draw by threefold repetition 
+3. 1/2-1/2...Draw by threefold repetition 
+4. 1/2-1/2...Draw by threefold repetition 
+5. 1/2-1/2...Draw by threefold repetition 
+6. 1/2-1/2...Draw by threefold repetition 
+7. 1/2-1/2...Draw by threefold repetition 
+8. 1/2-1/2...Draw by threefold repetition 
+9. 1/2-1/2...Draw by threefold repetition 
+10. 1/2-1/2...Draw by threefold repetition 
+11. 1/2-1/2...Draw by threefold repetition 
+12. 1/2-1/2...Draw by threefold repetition 
+13. 1/2-1/2...Draw by threefold repetition 
+14. 1/2-1/2...Draw by threefold repetition 
+15. 1/2-1/2...Draw by threefold repetition 
+16. 1/2-1/2...Draw by threefold repetition 
+17. 1/2-1/2...Draw by threefold repetition 
+18. 1/2-1/2...Draw by threefold repetition 
+19. 1/2-1/2...Draw by threefold repetition 
+1. black won the game 
+1. 1/2-1/2...Draw by threefold repetition 
